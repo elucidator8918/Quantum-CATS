@@ -1,0 +1,27 @@
+{
+  "dataset": "CATS (California Test System)",
+  "subgrid": {
+    "buses": 20,
+    "lines": 24,
+    "congested": 1,
+    "candidates": 4
+  },
+  "qubo_qubits": 6,
+  "classical": {
+    "fval": 2.512,
+    "time_s": 0.008160114288330078,
+    "lines_built": 1
+  },
+  "qaoa_p1": {
+    "fval": 2.512,
+    "approx_ratio": 1.0,
+    "time_s": 6.281012773513794,
+    "lines_built": 1
+  },
+  "qaoa_p2": {
+    "fval": 2.512,
+    "approx_ratio": 1.0,
+    "time_s": 15.885561227798462,
+    "lines_built": 1
+  }
+}
